@@ -1,7 +1,7 @@
 # M-I-1
 portofolio van mobile en internet, 1TI Odisee 
 wat wil je klant vertellen?
-Een korte introductie van hun bedrijf 
+Een korte introductie van hun bedrijf wat ze aaanbieden en een korte uitleg van mini-onderneming 
 
 wat wilt je klant in zijn website zien/hebben?
 
