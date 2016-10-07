@@ -4,6 +4,7 @@ wat wil je klant vertellen?
 Een korte introductie van hun bedrijf wat ze aaanbieden en een korte uitleg van mini-onderneming 
 
 wat wilt je klant in zijn website zien/hebben?
+Het product  zelf en een paar ill
 
 Wat is de huisstijl van je klant? Heeft hij een logo/huisstijl? Indien niet, mag je die zelf aanmaken, of is daar op dit moment al iemand anders met bezig?
 
@@ -25,6 +26,17 @@ Heeft je klant teksten en/of wil hij teksten aanmaken over zijn producten/dienst
 Als je een project in de realiteit wilt afwerken, dan is het altijd goed dat je ook vraagt wat de deadline is voor dit project. Zo kan je indien er een onrealistische vraag is, je klant onmiddelijk van deze illusie ontdoen, en kan je latere stress vermijden. In dit geval hebben jullie de deadline van het einde van deze module.
 
 Kijk ook even na met welke software je klant werkt : als hij werkt met Windows en hij surft met IE8, dan weet je dat je site er zeker op die browser moet uitzien zoals bedoeld. Je website moet zowieso zo uniform mogelijk zijn op alle mogelijke browsers, maar je kan je niet veroorloven om te falen op de browser van je klant zelf, want dan kom je niet zo competent over terwijl je site misschien voor 95% ok is. Als je klant werkt met IE6, dan mag je hem gerust zeggen dat het tijd is om te upgraden :  dat is een stokoude browser die zelfs in zijn hoogdagen niet zo compatiebel was met standaarden en andere browsers.
+
+
+
+week 1 
+afspraak voor intervieuw maken met mini onderneming Lucerna
+week 2
+een paar vragen beantwoorden van de vragenlijst en zelfs vragen opstellen
+we hebben besloten om elke dinsdagavond te brainstormen voor de website 
+week 3
+de functie opvragen van elke medewerker van Lucerna
+
 
 
 
