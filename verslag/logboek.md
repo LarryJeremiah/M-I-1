@@ -29,13 +29,51 @@ Kijk ook even na met welke software je klant werkt : als hij werkt met Windows e
 
 
 
-week 1 
-afspraak voor intervieuw maken met mini onderneming Lucerna
-week 2
-een paar vragen beantwoorden van de vragenlijst en zelfs vragen opstellen
-we hebben besloten om elke dinsdagavond te brainstormen voor de website 
-week 3
-de functie opvragen van elke medewerker van Lucerna
+week 1 2016-09-20
+
+vragen aan mini onderneming Lucerna of ik een website voor hun mag maken./Lucerna verkoopt huisdecoratie/
+Ze hebben mijn verzoek geacceptdeerd.
+Ik heb een dag afgesproken om met de algemeen directeur een interview te houden.
+
+
+
+week 2 2016-09-27
+
+Een paar vragen beantwoorden van de vragenlijst en zelfs vragen opstellen
+De algemene directeur van Lucerna besloot om elke dinsdagavond samen met mij te brainstormen voor de website
+De teamleden hebben een marktonderzoek opgesteld om hun doelgroep te opzoeken ze wouden aan de hand van de resultaat de website opstellen. 
+
+<Thema voor de website> 
+
+Als thema willen ze warm en opluchtend sfeer uitstralen.
+Kleur werd nog niet bepaalt 
+vlajo button moet erin vermeld worden
+
+<Wat erin vermeld wordt?>
+
+Contactgegevens 
+voorstelling en functieomschrijving van alle teamleden van Lucerna.
+voorstelling van de producten (huisdecoratie).
+Waar hun verkooppunten zijn.
+
+
+
+
+
+
+
+week 3 2016-10-3
+
+De verkooppunten zijn als volgt:
+Jaarmarkt van Sint pieters leeuw 
+GLTT (Halle)
+Tijdens ouderavond en tentoonstellingen op het koninklijke atheneum van Halle
+
+
+
+
+
+
 
 
 
