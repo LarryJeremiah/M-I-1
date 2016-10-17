@@ -66,7 +66,7 @@ week 3 2016-10-3
 
 De verkooppunten zijn als volgt:
 Jaarmarkt van Sint pieters leeuw 
-GLTT (Halle)
+GLTT (Halle) 
 Tijdens ouderavond en tentoonstellingen op het koninklijke atheneum van Halle
 
 
