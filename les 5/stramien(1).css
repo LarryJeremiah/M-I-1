@@ -1,0 +1,17 @@
+body 
+{ 
+color: black;
+background: #fdf url(https://s-media-cache-ak0.pinimg.com/originals/26/8c/71/268c713453d7a6058c1e3e5f8f004176.png) repeat 50%;
+}
+
+h1 {text-align: left;color: palevioletred}
+h2 {text-align: righth;color: purple}
+font 
+border-image: url(https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi0tYTmitPPAhUFchQKHQNYCwIQjRwIBw&url=http%3A%2F%2Fdesignreflect.com%2Ffree-wood-textures%2F&bvm=bv.135258522,d.ZGg&psig=AFQjCNGKjvRDlZ9Q6gL8heXVHxmQcP7tiA&ust=1476285932062398)
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
