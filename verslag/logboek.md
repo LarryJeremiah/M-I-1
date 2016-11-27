@@ -4,13 +4,13 @@
 		<meta charset="utf-8" >
 		<meta name="description" content="#" >
 		<meta name="keywords" content="#">
-		<title>Hello, world!</title>
+		<title>weekversalgen</title>
 
 	</head>
 
   <body>
 
-<p> week 1 2016-09-20
+<a> week 1 2016-09-20
 
 vragen aan mini onderneming Lucerna of ik een website voor hun mag maken./Lucerna verkoopt huisdecoratie/
 Ze hebben mijn verzoek geacceptdeerd.
@@ -81,7 +81,7 @@ ik heb hun gevraagd of ik hun adres als google maps sectie mocht zetten zodat de
 Ik heb de navigatiebalk afgewerkt.
 Ik ben met de footer en header bezig en grotendeels van de header heb ik afgewerkt.
 ik heb een formulier opgemaakt.
-</p>
+</a>
 
 </body>
 
