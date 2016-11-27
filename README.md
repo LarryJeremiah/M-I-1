@@ -6,7 +6,7 @@
     <meta name="description" content="beschrijving van de webpagina">
     <meta name="keywords" content="trefwoorden, gescheiden, door, komma's">
     <meta name="viewport" content="width=device-width, height=device-height" />
-    <title>Sofra</title>
+    <title>intervieuw van klant.</title>
 
 </head>
 
