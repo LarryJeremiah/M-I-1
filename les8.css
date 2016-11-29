@@ -1,0 +1,46 @@
+.grootstediv
+{
+
+position:absolute;
+width:600px;
+height:600px;
+top:100px;
+left:100px;
+background-color: darkgrey;
+}
+.DIV1
+{
+background-color: olive;
+position:absolute;
+width:150px;
+height:150px;
+left:150px;
+top:150px;
+}
+.DIV2
+{
+background-color: blue;
+position:absolute;
+width:150px;
+height:150px;
+right:150px;
+top:150px;
+}
+.DIV3
+{
+background-color: red;
+position:absolute;
+width:150px;
+height:150px;
+right:150px;
+bottom:150px;
+}
+.DIV4
+{
+background-color: fuchsia;
+position:absolute;
+width:150px;
+height:150px;
+left:150px;
+bottom:150px;
+}
