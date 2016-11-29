@@ -1,0 +1,26 @@
+h1{
+  background:#123EAB;
+  color:#FFD173;
+  font-size:120%;
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+h2{
+  background:#123EAB;
+  color:#FFD173;
+  font-size:110%;
+  font-family: verdana, arial, helvetica, sans-serif; 
+}
+p{
+  font-size:90%;
+  font-family: verdana, arial, helvetica, sans-serif; 	
+}
+p.antwoord{
+  background:#FFD173;
+  color:#FFD173;
+}
+p.antwoord:hover{
+  color:#123EAB;
+}
+body{
+  background:#FFC040;
+}
