@@ -1,0 +1,24 @@
+li{
+	list-style:circle none;
+	margin: -1px 0px 0px 0px;
+    text-align: center;
+    padding: 0px;
+    margin:0px;
+    display: inline-block;
+    
+}
+li li {
+	list-style:none;
+    text-align: center;
+}
+a {
+	background: #D46A6A; 
+}
+
+li li a{
+	background: #F9E0A5;
+}
+
+body{
+    background-color: white;
+}
