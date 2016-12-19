@@ -1,0 +1,69 @@
+body{
+    background-color: aquamarine;
+    
+}
+
+
+
+
+
+
+.transition {
+transition:0.4829s ease;
+-webkit-transition:0.4829s ease;
+-moz-transition:0.4829s ease;
+-o-transition:0.4829s ease;
+transform: rotate(90deg) scale(0.757) skew(-2deg) translate(300px);
+-webkit-transform: rotate(90deg) scale(0.757) skew(-2deg) translate(300px);
+-moz-transform: rotate(90deg) scale(0.757) skew(-2deg) translate(300px);
+-o-transform: rotate(90deg) scale(0.757) skew(-2deg) translate(300px);
+-ms-transform: rotate(90deg) scale(0.757) skew(-2deg) translate(300px);
+
+}
+.transition:hover{
+transform: rotate(90deg) scale(0.67) skew(1deg) translate(0px);
+-webkit-transform: rotate(90deg) scale(0.67) skew(1deg) translate(0px);
+-moz-transform: rotate(90deg) scale(0.67) skew(1deg) translate(0px);
+-o-transform: rotate(90deg) scale(0.67) skew(1deg) translate(0px);
+-ms-transform: rotate(90deg) scale(0.67) skew(1deg) translate(0px);
+}
+
+
+#animation{
+width:250px;
+height:60px;
+background:red;
+position:absolute;
+
+-moz-animation:myfirst 5s; /* Firefox */
+-webkit-animation:myfirst 5s; /* Safari and Chrome */
+
+}
+@keyframes myfirst
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:yellow; left:200px; top:0px;}
+50%  {background:blue; left:200px; top:200px;}
+75%  {background:green; left:0px; top:200px;}
+100% {background:red; left:0px; top:0px;}
+}
+
+@-moz-keyframes myfirst /* Firefox */
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:yellow; left:200px; top:0px;}
+50%  {background:blue; left:200px; top:200px;}
+75%  {background:green; left:0px; top:200px;}
+100% {background:red; left:0px; top:0px;}
+}
+
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+0%   {background:green; left:0px; top:0px;}
+25%  {background:yellow; left:200px; top:0px;}
+50%  {background:red; left:200px; top:200px;}
+75%  {background:red; left:0px; top:200px;}
+100% {background:blue; left:0px; top:0px;}
+}
+
+
