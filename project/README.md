@@ -10,15 +10,7 @@
 
 </head>
 
-<style>
-    body {
-        font-family: verdana, sans-serif;
-        background-color: #FFBF00;
-        margin: auto;
-        padding: inherit;
-    }
 
-</style>
 <body>
 <a>
 # M-I-1
