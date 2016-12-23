@@ -6,3 +6,7 @@ ik leer al zelfstandig op codeacademy maar met onze docent leren we ook hoe de p
 
 Ik ben gedreven en hoop op het einde van deze academiejaar 1000 commits te maken. Het zal moeilijk zijn maar een ware IT'er kan wel tegen een uitdaging.  
 
+
+
+
+dit hier is mijn url voor mijn allereerste website: lucerna.000webhostapp.com het was erg moeilijk om te maken en omdat het een gratis webhost was heb ik een paar moeilijkheden gehad met de fotos die presenteren.
